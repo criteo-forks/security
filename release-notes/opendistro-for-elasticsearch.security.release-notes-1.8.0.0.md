@@ -1,3 +1,7 @@
+## 2021-04-06 Version 1.8.0.0
+
+Supported Elasticsearch version 7.7.1
+
 ## 2020-05-18 Version 1.8.0.0
 
 Supported Elasticsearch version 7.7.0
